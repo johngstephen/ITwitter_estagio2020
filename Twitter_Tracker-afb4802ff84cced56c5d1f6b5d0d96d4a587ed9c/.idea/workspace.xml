@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2da1d92-f99e-429c-a740-ad1361e05304" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fdBnS4GnNCt5csAddpJU0edFtJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\Twitter_Tracker\ITwitter\mysite\mysite\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Documents\GitHub\Twitter_Tracker\ITwitter\mysite\mysite\static" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2da1d92-f99e-429c-a740-ad1361e05304" name="Default Changelist" comment="" />
+      <created>1596538255488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596538255488</updated>
+      <workItem from="1596538259717" duration="5161000" />
+      <workItem from="1596550828998" duration="2552000" />
+      <workItem from="1596576538337" duration="181000" />
+      <workItem from="1596617539325" duration="3657000" />
+      <workItem from="1596659346291" duration="5260000" />
+      <workItem from="1596701888259" duration="3034000" />
+      <workItem from="1596739855173" duration="15433000" />
+      <workItem from="1596787685482" duration="3307000" />
+      <workItem from="1596822394683" duration="291000" />
+      <workItem from="1596830676865" duration="653000" />
+      <workItem from="1596909491273" duration="497000" />
+      <workItem from="1597050416171" duration="17279000" />
+      <workItem from="1597091143275" duration="456000" />
+      <workItem from="1597137894096" duration="1176000" />
+      <workItem from="1597484042900" duration="911000" />
+      <workItem from="1598896057108" duration="831000" />
+      <workItem from="1598911489995" duration="3102000" />
+      <workItem from="1599062294769" duration="204000" />
+      <workItem from="1602844310273" duration="169000" />
+      <workItem from="1603212810881" duration="376000" />
+      <workItem from="1603392645390" duration="234000" />
+      <workItem from="1606159348269" duration="142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="669" y="278" width="574" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597883138224">
+      <screen x="0" y="27" width="1920" height="923" />
+    </state>
+    <state x="669" y="278" width="574" height="406" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.923@0.27.1920.923" timestamp="1597883138224" />
+    <state x="277" y="75" key="SettingsEditor" timestamp="1602844407133">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="75" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1602844407133" />
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1606159349559">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="465" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1606159349559" />
+  </component>
+</project>

@@ -1,0 +1,36 @@
+{% extends 'home.html' %}
+
+{% block search %}
+<div class="container my-4">
+    <form method="post" action="{% url 'tweet_remove' %}">
+        {% csrf_token %}
+      <ul class="list-group list-group-flush">
+    {% for result in resultList %}
+        <div class="card border-primary mb-3">
+          <div class="card-header">
+              <img src={{result.username_image}} alt="User profile pic" class="ml-2"/>
+              @{{ result.tweet_username }}
+          </div>
+          <div class="card-body text-primary">
+            <h5 class="card-title">{{ result.tweet_text }}</h5>
+            {% for urls in result.tweet_images %}
+                <img src={{urls}} alt="Tweet related image" class="rounded mx-auto d-block" width="510px" height="387px"/>
+            {% endfor %}
+          </div>
+          <div class="card-footer bg-transparent border-primary">
+              <div class="form-check btn-primary rounded p-2">
+                  <input class="form-check-input ml-1" type="checkbox" name="tweet" value={{ result.tweet_id }} />
+                  <a class="ml-4"> Remove from Favorites </a>
+              </div>
+          </div>
+        </div>
+    {% endfor %}
+        </ul>
+        <div class="form-group">
+            <div class="col-sm-offset-2 col-sm-4">
+                <button type="submit" class="btn btn-lg btn-info">Save</button>
+            </div>
+        </div>
+    </form>
+</div>
+{% endblock %}
